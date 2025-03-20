@@ -21,13 +21,6 @@
 ### 🎉 Fun GIF:
 ![My GIF](https://github.com/divyesh099/divyesh099/blob/main/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966.gif)
 
-
-### 🔥 **Streak Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyeshSavaliya&show_icons=true&theme=highcontrast)
-
-### 🏆 **GitHub Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DivyeshSavaliya&theme=onedark)
-
 ---
 
 ### 💻 **Tech Stack & Tools:**
@@ -42,7 +35,8 @@
 ---
 
 ### 📈 **Top Languages Used:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyeshSavaliya&layout=compact&theme=tokyonight)
+![Top Langs](https://github.com/divyesh099/divyesh099/blob/main/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f6261646765732f323032332f6769662f323032332d30322e676966.gif)
+![Top Langs](https://github.com/divyesh099/divyesh099/blob/main/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f6261646765732f323032332f6769662f323032332d30322e676966.gif)
 
 ---
 
