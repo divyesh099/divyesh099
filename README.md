@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Divyesh Savaliya  
 🚀 **React & Next.js Developer | Freelancer | Entrepreneur**  
 🌱 Passionate about web development, software solutions, and UI/UX design.  
-📈 Founder of **utilspoint**
+📈 Founder of **utilspoint**.
 🎓 Currently pursuing MCA at Jain University & planning for a PhD abroad.  
 
 ---
@@ -19,10 +19,10 @@
 ![Your GitHub Stats](https://github.com/divyesh099/divyesh099/blob/main/github-contribution-grid-snake.svg)
 
 ### 🔥 **Streak Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyesh Savaliya&show_icons=true&theme=highcontrast)
 
 ### 🏆 **GitHub Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Divyesh Savaliya&theme=onedark)
 
 ---
 
