@@ -38,14 +38,12 @@
 ---
 
 ### 📈 **Top Languages Used:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyeshSavaliya&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌍 **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/divyesh-savaliya-03a593240/)
 
 ---
 
