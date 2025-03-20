@@ -16,7 +16,7 @@
 ---
 
 ### 📊 **GitHub Contribution:**
-(https://github.com/divyesh099/divyesh099/blob/main/github-contribution-grid-snake.svg)
+![Your GitHub Stats](https://github.com/divyesh099/divyesh099/blob/main/github-contribution-grid-snake.svg)
 
 ### 🔥 **Streak Stats:**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
