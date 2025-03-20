@@ -18,6 +18,10 @@
 ### 📊 **GitHub Contribution:**
 ![Your GitHub Stats](https://github.com/divyesh099/divyesh099/blob/main/github-contribution-grid-snake.svg)
 
+### 🎉 Fun GIF:
+![My GIF](https://github.com/divyesh099/divyesh099/blob/main/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966.gif)
+
+
 ### 🔥 **Streak Stats:**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyeshSavaliya&show_icons=true&theme=highcontrast)
 
