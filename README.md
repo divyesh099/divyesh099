@@ -19,10 +19,10 @@
 ![Your GitHub Stats](https://github.com/divyesh099/divyesh099/blob/main/github-contribution-grid-snake.svg)
 
 ### 🔥 **Streak Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyesh Savaliya&show_icons=true&theme=highcontrast)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyeshSavaliya&show_icons=true&theme=highcontrast)
 
 ### 🏆 **GitHub Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Divyesh Savaliya&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DivyeshSavaliya&theme=onedark)
 
 ---
 
